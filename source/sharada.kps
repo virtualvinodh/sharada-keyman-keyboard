@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+  <System>
+    <KeymanDeveloperVersion>13.0.115.0</KeymanDeveloperVersion>
+    <FileVersion>7.0</FileVersion>
+  </System>
+  <Options>
+    <ExecuteProgram></ExecuteProgram>
+    <ReadMeFile>readme.htm</ReadMeFile>
+    <GraphicFile>splash.bmp</GraphicFile>
+    <MSIFileName>C:\Users\vinod\OneDrive\Desktop\keyman-14.0.271\keymandesktop.msi</MSIFileName>
+    <MSIOptions></MSIOptions>
+    <FollowKeyboardVersion/>
+  </Options>
+  <StartMenu>
+    <Folder>Sharada Keyboard</Folder>
+    <Items>
+      <Item>
+        <Name>Start Keyman</Name>
+        <FileName>(Start Product)</FileName>
+        <Arguments></Arguments>
+        <Icon></Icon>
+        <Location>psmelStartMenu</Location>
+      </Item>
+      <Item>
+        <Name>Keyboard Layout</Name>
+        <FileName>keyboard.htm</FileName>
+        <Arguments></Arguments>
+        <Icon></Icon>
+        <Location>psmelStartMenu</Location>
+      </Item>
+      <Item>
+        <Name>How to Use</Name>
+        <FileName>how_to_use.pdf</FileName>
+        <Arguments></Arguments>
+        <Icon></Icon>
+        <Location>psmelStartMenu</Location>
+      </Item>
+      <Item>
+        <Name>Keyman Help</Name>
+        <FileName>(Product Help)</FileName>
+        <Arguments></Arguments>
+        <Icon></Icon>
+        <Location>psmelStartMenu</Location>
+      </Item>
+    </Items>
+  </StartMenu>
+  <Info>
+    <Name URL="">Sharada</Name>
+    <Copyright URL="">© 2021 Virtual Vinodh</Copyright>
+    <Author URL="mailto:vinodh@virtualvinodh.com">Vinodh Rajan</Author>
+    <Version URL=""></Version>
+    <WebSite URL="http://www.virtualvinodh.com">http://www.virtualvinodh.com</WebSite>
+  </Info>
+  <Files>
+    <File>
+      <Name>keyboard.htm</Name>
+      <Description>File keyboard.htm</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>readme.htm</Name>
+      <Description>File readme.htm</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.htm</FileType>
+    </File>
+    <File>
+      <Name>splash.bmp</Name>
+      <Description>File splash.bmp</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.bmp</FileType>
+    </File>
+    <File>
+      <Name>..\build\sharada_unicode_phonetic.js</Name>
+      <Description>File sharada_unicode_phonetic.js</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+    <File>
+      <Name>..\build\sharada_unicode_phonetic.kmx</Name>
+      <Description>Keyboard Sharada Unicode Phonetic</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>how_to_use.pdf</Name>
+      <Description>File how_to_use.pdf</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.pdf</FileType>
+    </File>
+    <File>
+      <Name>Sharada.ttf</Name>
+      <Description>Font Satisar Sharada</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.ttf</FileType>
+    </File>
+  </Files>
+  <Keyboards>
+    <Keyboard>
+      <Name>Sharada Unicode Phonetic</Name>
+      <ID>sharada_unicode_phonetic</ID>
+      <Version>1.0</Version>
+      <Languages/>
+    </Keyboard>
+  </Keyboards>
+  <Strings/>
+</Package>

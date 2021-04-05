@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>3</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\vinod\projects\sharada-keyman-keyboard\sharada.kpj</path>
+    <file ID="id_MRU0" Expanded="1"/>
+    <file ID="id_MRU1" Expanded="1"/>
+    <file ID="id_MRU3" Expanded="1"/>
+    <file ID="id_MRU4" Expanded="1"/>
+    <file ID="id_MRU5" Expanded="1"/>
+    <file ID="id_97eb3f760bcb6c4bf0fad7513c41bdc5" Expanded="1"/>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_97eb3f760bcb6c4bf0fad7513c41bdc5</ID>
+      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\source\sharada.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_d6b9174bacfb35f797b12dea4cefbbb2</ID>
+      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\sharada.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_75a93dd9fc0384b3ad247f6afeb95d28</ID>
+      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\source\sharada_unicode_phonetic.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>MS Sans Serif|8|   |1</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Satisar Sharada|12|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_6939a7669766d6e034bb5da3afc1a391</ID>
+      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\source\keyboard.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\source\readme.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_48e3c918d804bfd60a0122dff7f72434</ID>
+      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\source\splash.bmp</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_309359c3d5eb7b1c0091c33ac7c172fb</ID>
+      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\source\..\build\sharada_unicode_phonetic.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_44e98c532330015881476f8787c279cf</ID>
+      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\source\..\build\sharada_unicode_phonetic.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ee503598fef4c5ad0290b1e3c50574bb</ID>
+      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\source\how_to_use.pdf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c19e6fe4d5488f6ef5201e772c8fba51</ID>
+      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\source\Sharada.ttf</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_f5259cbea0336825b3775e95c285aaef</ID>
+      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\source\grantha_phonetic.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_65cb94fe07e0a8b797bfd04733cce34f</ID>
+      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\source\sharada_inscript.kmn</FullPath>
+      <IDEState>
+        <CharFont>Satisar Sharada|9|   |0</CharFont>
+        <LayoutDisplay102Key>1</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>MS Sans Serif|8|   |1</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_0356a2504f876878a28a0134b9edc720</ID>
+      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\inscript.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>MS Sans Serif|8|   |1</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>sharada_inscript.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\source\sharada_inscript.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>sharada_unicode_phonetic.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\source\sharada_unicode_phonetic.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>sharada inscript.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\source\sharada inscript.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
+      <Filename>Sharada inscript.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\Sharada inscript.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU4</ID>
+      <Filename>sharada.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\source\sharada.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU5</ID>
+      <Filename>sharada_unicode_phonetic.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\vinod\OneDrive\Documents\Keyman Developer\Sharada\source\sharada_unicode_phonetic.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU6</ID>
+      <Filename>sharada.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\vinod\OneDrive\Documents\Keyman Developer\Sharada\source\sharada.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU7</ID>
+      <Filename>welcome.htm</Filename>
+      <FileType>.htm</FileType>
+      <FullPath>C:\Users\vinod\OneDrive\Documents\Keyman Developer\Sharada\source\welcome.htm</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU8</ID>
+      <Filename>grantha_unicode_phonetic.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\vinod\OneDrive\Documents\Keyman Developer\GranthaUnicode\src\grantha_unicode_phonetic.kmn</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>

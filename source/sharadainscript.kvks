@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<visualkeyboard>
+  <header>
+    <version>10.0</version>
+    <kbdname>sharada_inscript</kbdname>
+    <flags>
+      <displayunderlying/>
+    </flags>
+  </header>
+  <encoding name="unicode" fontname="Satisar Sharada" fontsize="-12">
+    <layer shift="S">
+      <key vkey="K_1">𑆍ᳮ</key>
+      <key vkey="K_3">𑇀𑆫</key>
+      <key vkey="K_4">𑆫𑇀</key>
+      <key vkey="K_5">𑆃᳐</key>
+      <key vkey="K_7">𑆄᳐</key>
+      <key vkey="K_8">𑆳᳐</key>
+      <key vkey="K_EQUAL">𑆋</key>
+      <key vkey="K_COMMA">𑆰</key>
+      <key vkey="K_PERIOD">।</key>
+      <key vkey="K_2">ᳮ</key>
+      <key vkey="K_C">𑆟</key>
+      <key vkey="K_M">𑆯</key>
+      <key vkey="K_N">𑆟</key>
+      <key vkey="K_X">𑆀</key>
+      <key vkey="K_Z">𑆃᳘</key>
+      <key vkey="K_6">᳐</key>
+      <key vkey="K_HYPHEN">𑆂</key>
+      <key vkey="K_BKQUOTE">𑆃᳕</key>
+    </layer>
+    <layer shift="">
+      <key vkey="K_QUOTE">𑆛</key>
+      <key vkey="K_SLASH">𑆪</key>
+      <key vkey="K_COLON">𑆖</key>
+      <key vkey="K_EQUAL">𑆸</key>
+      <key vkey="K_LBRKT">𑆝</key>
+      <key vkey="K_BKSLASH">𑆃ᳯ</key>
+      <key vkey="K_RBRKT">𑇊</key>
+      <key vkey="K_BKQUOTE">᳕</key>
+      <key vkey="K_A">𑆾</key>
+      <key vkey="K_B">𑆮</key>
+      <key vkey="K_C">𑆩</key>
+      <key vkey="K_D">𑇀</key>
+      <key vkey="K_E">𑆳</key>
+      <key vkey="K_F">𑆴</key>
+      <key vkey="K_G">𑆶</key>
+      <key vkey="K_H">𑆥</key>
+      <key vkey="K_I">𑆓</key>
+      <key vkey="K_K">𑆑</key>
+      <key vkey="K_L">𑆠</key>
+      <key vkey="K_M">𑆱</key>
+      <key vkey="K_N">𑆬</key>
+      <key vkey="K_O">𑆢</key>
+      <key vkey="K_P">𑆘</key>
+      <key vkey="K_Q">𑆿</key>
+      <key vkey="K_R">𑆵</key>
+      <key vkey="K_S">𑆼</key>
+      <key vkey="K_T">𑆷</key>
+      <key vkey="K_U">𑆲</key>
+      <key vkey="K_V">𑆤</key>
+      <key vkey="K_W">𑆽</key>
+      <key vkey="K_X">𑆁</key>
+      <key vkey="K_Y">𑆧</key>
+      <key vkey="K_Z">᳘</key>
+    </layer>
+    <layer shift="C">
+      <key vkey="K_V">𑆀</key>
+    </layer>
+  </encoding>
+</visualkeyboard>
