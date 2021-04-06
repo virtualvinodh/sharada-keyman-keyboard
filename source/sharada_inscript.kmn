@@ -1,6 +1,8 @@
 ﻿store(&TARGETS) 'any windows macosx linux web iphone ipad androidphone androidtablet mobile desktop tablet'
 store(&NAME) 'Sharada Unicode Inscript'
 store(&VISUALKEYBOARD) 'sharada_inscript.kvks'
+store(&BITMAP) 'inscript.ico'
+
 
 begin Unicode > use(main)
 

@@ -23,14 +23,21 @@
         <Location>psmelStartMenu</Location>
       </Item>
       <Item>
-        <Name>Keyboard Layout</Name>
+        <Name>Phonetic Keyboard Layout</Name>
         <FileName>keyboard.htm</FileName>
         <Arguments></Arguments>
         <Icon></Icon>
         <Location>psmelStartMenu</Location>
       </Item>
       <Item>
-        <Name>How to Use</Name>
+        <Name>Inscript Layout</Name>
+        <FileName>inscript_layout.pdf</FileName>
+        <Arguments></Arguments>
+        <Icon></Icon>
+        <Location>psmelStartMenu</Location>
+      </Item>
+      <Item>
+        <Name>how-to-use</Name>
         <FileName>how_to_use.pdf</FileName>
         <Arguments></Arguments>
         <Icon></Icon>
@@ -95,11 +102,41 @@
       <CopyLocation>0</CopyLocation>
       <FileType>.ttf</FileType>
     </File>
+    <File>
+      <Name>..\build\sharada_inscript.js</Name>
+      <Description>File sharada_inscript.js</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.js</FileType>
+    </File>
+    <File>
+      <Name>..\build\sharada_inscript.kvk</Name>
+      <Description>File sharada_inscript.kvk</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kvk</FileType>
+    </File>
+    <File>
+      <Name>..\build\sharada_inscript.kmx</Name>
+      <Description>Keyboard Sharada Unicode Inscript</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.kmx</FileType>
+    </File>
+    <File>
+      <Name>inscript_layout.pdf</Name>
+      <Description>File inscript_layout.pdf</Description>
+      <CopyLocation>0</CopyLocation>
+      <FileType>.pdf</FileType>
+    </File>
   </Files>
   <Keyboards>
     <Keyboard>
       <Name>Sharada Unicode Phonetic</Name>
       <ID>sharada_unicode_phonetic</ID>
+      <Version>1.0</Version>
+      <Languages/>
+    </Keyboard>
+    <Keyboard>
+      <Name>Sharada Unicode Inscript</Name>
+      <ID>sharada_inscript</ID>
       <Version>1.0</Version>
       <Languages/>
     </Keyboard>

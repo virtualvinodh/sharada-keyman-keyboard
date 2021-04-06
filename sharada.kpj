@@ -59,6 +59,40 @@
       </Details>
     </File>
     <File>
+      <ID>id_65cb94fe07e0a8b797bfd04733cce34f</ID>
+      <Filename>sharada_inscript.kmn</Filename>
+      <Filepath>source\sharada_inscript.kmn</Filepath>
+      <FileVersion>1.0</FileVersion>
+      <FileType>.kmn</FileType>
+      <Details>
+        <Name>Sharada Unicode Inscript</Name>
+      </Details>
+    </File>
+    <File>
+      <ID>id_0356a2504f876878a28a0134b9edc720</ID>
+      <Filename>inscript.kmn</Filename>
+      <Filepath>inscript.kmn</Filepath>
+      <FileVersion>1.0</FileVersion>
+      <FileType>.kmn</FileType>
+      <Details/>
+    </File>
+    <File>
+      <ID>id_f5259cbea0336825b3775e95c285aaef</ID>
+      <Filename>grantha_phonetic.ico</Filename>
+      <Filepath>source\grantha_phonetic.ico</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.ico</FileType>
+      <ParentFileID>id_75a93dd9fc0384b3ad247f6afeb95d28</ParentFileID>
+    </File>
+    <File>
+      <ID>id_be78f522ec2a61daf15b65e4b134beb3</ID>
+      <Filename>inscript.ico</Filename>
+      <Filepath>source\inscript.ico</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.ico</FileType>
+      <ParentFileID>id_65cb94fe07e0a8b797bfd04733cce34f</ParentFileID>
+    </File>
+    <File>
       <ID>id_6939a7669766d6e034bb5da3afc1a391</ID>
       <Filename>keyboard.htm</Filename>
       <Filepath>source\keyboard.htm</Filepath>
@@ -115,30 +149,36 @@
       <ParentFileID>id_97eb3f760bcb6c4bf0fad7513c41bdc5</ParentFileID>
     </File>
     <File>
-      <ID>id_f5259cbea0336825b3775e95c285aaef</ID>
-      <Filename>grantha_phonetic.ico</Filename>
-      <Filepath>source\grantha_phonetic.ico</Filepath>
+      <ID>id_4d05ef0b454e961bca9776ad5ad49870</ID>
+      <Filename>sharada_inscript.js</Filename>
+      <Filepath>source\..\build\sharada_inscript.js</Filepath>
       <FileVersion></FileVersion>
-      <FileType>.ico</FileType>
-      <ParentFileID>id_75a93dd9fc0384b3ad247f6afeb95d28</ParentFileID>
+      <FileType>.js</FileType>
+      <ParentFileID>id_97eb3f760bcb6c4bf0fad7513c41bdc5</ParentFileID>
     </File>
     <File>
-      <ID>id_65cb94fe07e0a8b797bfd04733cce34f</ID>
-      <Filename>sharada_inscript.kmn</Filename>
-      <Filepath>source\sharada_inscript.kmn</Filepath>
-      <FileVersion>1.0</FileVersion>
-      <FileType>.kmn</FileType>
-      <Details>
-        <Name>Sharada Unicode Inscript</Name>
-      </Details>
+      <ID>id_2b393065a924c83fa72cd45a4d33fe9a</ID>
+      <Filename>sharada_inscript.kvk</Filename>
+      <Filepath>source\..\build\sharada_inscript.kvk</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.kvk</FileType>
+      <ParentFileID>id_97eb3f760bcb6c4bf0fad7513c41bdc5</ParentFileID>
     </File>
     <File>
-      <ID>id_0356a2504f876878a28a0134b9edc720</ID>
-      <Filename>inscript.kmn</Filename>
-      <Filepath>inscript.kmn</Filepath>
-      <FileVersion>1.0</FileVersion>
-      <FileType>.kmn</FileType>
-      <Details/>
+      <ID>id_ed1b6d819a853ae4f4d13a203ffab588</ID>
+      <Filename>sharada_inscript.kmx</Filename>
+      <Filepath>source\..\build\sharada_inscript.kmx</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.kmx</FileType>
+      <ParentFileID>id_97eb3f760bcb6c4bf0fad7513c41bdc5</ParentFileID>
+    </File>
+    <File>
+      <ID>id_4e491cc40e5383ac246f3164cd4e037b</ID>
+      <Filename>inscript_layout.pdf</Filename>
+      <Filepath>source\inscript_layout.pdf</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.pdf</FileType>
+      <ParentFileID>id_97eb3f760bcb6c4bf0fad7513c41bdc5</ParentFileID>
     </File>
   </Files>
 </KeymanDeveloperProject>
