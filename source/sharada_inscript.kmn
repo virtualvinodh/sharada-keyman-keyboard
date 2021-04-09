@@ -54,7 +54,7 @@ group(main) using keys
 + [SHIFT K_C] > '𑆟'
 + [SHIFT K_Z] > '𑆃᳘'
 + [SHIFT K_X] > '𑆀'
-+ [SHIFT K_EQUAL] > '𑆋'
++ [SHIFT K_EQUAL] > '𑆉'
 + [SHIFT K_HYPHEN] > '𑆂'
 + [SHIFT K_8] > '𑆳᳐'
 + [SHIFT K_7] > '𑆄᳐'
