@@ -9,7 +9,7 @@ begin Unicode > use(main)
 group(main) using keys
 + [SHIFT K_J] > '𑆊'
 + [K_COMMA] > '𑆹'
-+ [SHIFT K_B] > '𑆹'
++ [SHIFT K_B] > '𑆺'
 + [SHIFT K_V] > '𑆋'
 + [SHIFT K_SLASH] > '𑇁'
 + [K_0] > '𑇐'
