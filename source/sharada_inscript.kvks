@@ -25,6 +25,7 @@
       <key vkey="K_SLASH">𑇁</key>
       <key vkey="K_2">ᳮ</key>
       <key vkey="K_A">𑆇</key>
+      <key vkey="K_B">𑆹</key>
       <key vkey="K_C">𑆟</key>
       <key vkey="K_D">𑆃</key>
       <key vkey="K_E">𑆄</key>
@@ -32,6 +33,7 @@
       <key vkey="K_G">𑆇</key>
       <key vkey="K_H">𑆦</key>
       <key vkey="K_I">𑆔</key>
+      <key vkey="K_J">𑆊</key>
       <key vkey="K_K">𑆒</key>
       <key vkey="K_L">𑆡</key>
       <key vkey="K_M">𑆯</key>
@@ -43,6 +45,7 @@
       <key vkey="K_S">𑆍</key>
       <key vkey="K_T">𑆈</key>
       <key vkey="K_U">𑆕</key>
+      <key vkey="K_V">𑆋</key>
       <key vkey="K_W">𑆎</key>
       <key vkey="K_X">𑆀</key>
       <key vkey="K_Y">𑆨</key>
@@ -56,6 +59,7 @@
     </layer>
     <layer shift="">
       <key vkey="K_QUOTE">𑆛</key>
+      <key vkey="K_COMMA">𑆹</key>
       <key vkey="K_PERIOD">𑇅</key>
       <key vkey="K_SLASH">𑆪</key>
       <key vkey="K_0">𑇐</key>
