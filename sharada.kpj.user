@@ -73,6 +73,14 @@
       <Debug>False</Debug>
     </FileState>
     <FileState>
+      <ID>id_f5259cbea0336825b3775e95c285aaef</ID>
+      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\source\grantha_phonetic.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_be78f522ec2a61daf15b65e4b134beb3</ID>
+      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\source\inscript.ico</FullPath>
+    </FileState>
+    <FileState>
       <ID>id_6939a7669766d6e034bb5da3afc1a391</ID>
       <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\source\keyboard.htm</FullPath>
     </FileState>
@@ -115,14 +123,6 @@
     <FileState>
       <ID>id_4e491cc40e5383ac246f3164cd4e037b</ID>
       <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\source\inscript_layout.pdf</FullPath>
-    </FileState>
-    <FileState>
-      <ID>id_f5259cbea0336825b3775e95c285aaef</ID>
-      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\source\grantha_phonetic.ico</FullPath>
-    </FileState>
-    <FileState>
-      <ID>id_be78f522ec2a61daf15b65e4b134beb3</ID>
-      <FullPath>C:\Users\vinod\projects\sharada-keyman-keyboard\source\inscript.ico</FullPath>
     </FileState>
   </FileStates>
   <MRU>
