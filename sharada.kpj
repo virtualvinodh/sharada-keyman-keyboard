@@ -77,22 +77,6 @@
       <Details/>
     </File>
     <File>
-      <ID>id_f5259cbea0336825b3775e95c285aaef</ID>
-      <Filename>grantha_phonetic.ico</Filename>
-      <Filepath>source\grantha_phonetic.ico</Filepath>
-      <FileVersion></FileVersion>
-      <FileType>.ico</FileType>
-      <ParentFileID>id_75a93dd9fc0384b3ad247f6afeb95d28</ParentFileID>
-    </File>
-    <File>
-      <ID>id_be78f522ec2a61daf15b65e4b134beb3</ID>
-      <Filename>inscript.ico</Filename>
-      <Filepath>source\inscript.ico</Filepath>
-      <FileVersion></FileVersion>
-      <FileType>.ico</FileType>
-      <ParentFileID>id_65cb94fe07e0a8b797bfd04733cce34f</ParentFileID>
-    </File>
-    <File>
       <ID>id_6939a7669766d6e034bb5da3afc1a391</ID>
       <Filename>keyboard.htm</Filename>
       <Filepath>source\keyboard.htm</Filepath>
@@ -179,6 +163,22 @@
       <FileVersion></FileVersion>
       <FileType>.pdf</FileType>
       <ParentFileID>id_97eb3f760bcb6c4bf0fad7513c41bdc5</ParentFileID>
+    </File>
+    <File>
+      <ID>id_f5259cbea0336825b3775e95c285aaef</ID>
+      <Filename>grantha_phonetic.ico</Filename>
+      <Filepath>source\grantha_phonetic.ico</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.ico</FileType>
+      <ParentFileID>id_75a93dd9fc0384b3ad247f6afeb95d28</ParentFileID>
+    </File>
+    <File>
+      <ID>id_be78f522ec2a61daf15b65e4b134beb3</ID>
+      <Filename>inscript.ico</Filename>
+      <Filepath>source\inscript.ico</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.ico</FileType>
+      <ParentFileID>id_65cb94fe07e0a8b797bfd04733cce34f</ParentFileID>
     </File>
   </Files>
 </KeymanDeveloperProject>
