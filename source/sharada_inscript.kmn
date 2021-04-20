@@ -50,7 +50,7 @@ group(main) using keys
 + [SHIFT K_F] > '𑆅'
 + [SHIFT K_D] > '𑆃'
 + [SHIFT K_S] > '𑆍'
-+ [SHIFT K_A] > '𑆇'
++ [SHIFT K_A] > '𑆏'
 + [SHIFT K_PERIOD] > '𑇆'
 + [SHIFT K_COMMA] > '𑆰'
 + [SHIFT K_M] > '𑆯'
