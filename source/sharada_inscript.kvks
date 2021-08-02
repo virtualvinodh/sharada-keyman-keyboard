@@ -9,21 +9,21 @@
   </header>
   <encoding name="unicode" fontname="Satisar Sharada" fontsize="-17">
     <layer shift="S">
-      <key vkey="K_1">𑆍ᳮ</key>
+      <key vkey="K_1">𑆍𑇌</key>
       <key vkey="K_QUOTE">𑆜</key>
-      <key vkey="K_3">𑇀𑆫</key>
-      <key vkey="K_4">𑆫𑇀</key>
-      <key vkey="K_5">𑆃᳐</key>
-      <key vkey="K_7">𑆄᳐</key>
-      <key vkey="K_9">𑆑𑇀𑆰</key>
-      <key vkey="K_0">𑆘𑇀𑆚</key>
-      <key vkey="K_8">𑆳᳐</key>
+      <key vkey="K_3">𑆃𑇋</key>
+      <key vkey="K_4">𑇋</key>
+      <key vkey="K_5">𑆃𑇋𑆳</key>
+      <key vkey="K_7">𑆃𑆾𑇋 </key>
+      <key vkey="K_9">𑆃𑆾𑇋𑆳</key>
+      <key vkey="K_0">𑆾𑇋𑆳</key>
+      <key vkey="K_8">𑆾𑇋</key>
       <key vkey="K_EQUAL">𑆉</key>
       <key vkey="K_COLON">𑆗</key>
       <key vkey="K_COMMA">𑆰</key>
       <key vkey="K_PERIOD">𑇆</key>
       <key vkey="K_SLASH">𑇁</key>
-      <key vkey="K_2">ᳮ</key>
+      <key vkey="K_2">𑆼𑇌</key>
       <key vkey="K_A">𑆏</key>
       <key vkey="K_B">𑆺</key>
       <key vkey="K_C">𑆟</key>
@@ -49,13 +49,13 @@
       <key vkey="K_W">𑆎</key>
       <key vkey="K_X">𑆀</key>
       <key vkey="K_Y">𑆨</key>
-      <key vkey="K_Z">𑆃᳘</key>
-      <key vkey="K_6">᳐</key>
+      <key vkey="K_Z">𑆃𑇋𑆶</key>
+      <key vkey="K_6">𑇋𑆳</key>
       <key vkey="K_HYPHEN">𑆂</key>
       <key vkey="K_LBRKT">𑆞</key>
-      <key vkey="K_BKSLASH">ᳯ</key>
+      <key vkey="K_BKSLASH">𑆏𑇌</key>
       <key vkey="K_RBRKT">𑆚</key>
-      <key vkey="K_BKQUOTE">𑆃᳕</key>
+      <key vkey="K_BKQUOTE">𑆃𑇋𑆷</key>
     </layer>
     <layer shift="">
       <key vkey="K_QUOTE">𑆛</key>
@@ -75,9 +75,9 @@
       <key vkey="K_COLON">𑆖</key>
       <key vkey="K_EQUAL">𑆸</key>
       <key vkey="K_LBRKT">𑆝</key>
-      <key vkey="K_BKSLASH">𑆃ᳯ</key>
+      <key vkey="K_BKSLASH">𑆾𑇌</key>
       <key vkey="K_RBRKT">𑇊</key>
-      <key vkey="K_BKQUOTE">᳕</key>
+      <key vkey="K_BKQUOTE">𑇋𑆷</key>
       <key vkey="K_A">𑆾</key>
       <key vkey="K_B">𑆮</key>
       <key vkey="K_C">𑆩</key>
@@ -103,7 +103,7 @@
       <key vkey="K_W">𑆽</key>
       <key vkey="K_X">𑆁</key>
       <key vkey="K_Y">𑆧</key>
-      <key vkey="K_Z">᳘</key>
+      <key vkey="K_Z">𑇋𑆶</key>
     </layer>
     <layer shift="SC">
       <key vkey="K_PERIOD">𑇁</key>
